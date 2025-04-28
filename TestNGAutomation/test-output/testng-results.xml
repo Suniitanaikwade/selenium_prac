@@ -1,17 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results total="1" passed="1" failed="0" skipped="0">
+<testng-results total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-17T13:00:15Z" name="Default suite" finished-at="2025-04-17T13:00:30Z" duration-ms="15321">
+  <suite started-at="2025-04-22T10:02:57Z" name="Default suite" finished-at="2025-04-22T10:03:09Z" duration-ms="12151">
     <groups>
     </groups>
-    <test started-at="2025-04-17T13:00:15Z" name="Default test" finished-at="2025-04-17T13:00:30Z" duration-ms="15321">
-      <class name="AutomationUsinfTestNGFramework.TestNGAutomation.Alerts">
-        <test-method signature="alertpage1()[pri:0, instance:AutomationUsinfTestNGFramework.TestNGAutomation.Alerts@8e0379d]" started-at="2025-04-17T18:30:15Z" name="alertpage1" finished-at="2025-04-17T18:30:30Z" duration-ms="15301" status="PASS">
+    <test started-at="2025-04-22T10:02:57Z" name="Default test" finished-at="2025-04-22T10:03:09Z" duration-ms="12151">
+      <class name="AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:32:54Z" name="openbrowser" finished-at="2025-04-22T15:32:57Z" duration-ms="2553" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- alertpage1 -->
-      </class> <!-- AutomationUsinfTestNGFramework.TestNGAutomation.Alerts -->
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:32:57Z" name="openurl" finished-at="2025-04-22T15:33:01Z" duration-ms="4230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method is-config="true" signature="maximizeWindow()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:01Z" name="maximizeWindow" finished-at="2025-04-22T15:33:01Z" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method is-config="true" signature="cookiesandTimeout()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:01Z" name="cookiesandTimeout" finished-at="2025-04-22T15:33:01Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesandTimeout -->
+        <test-method signature="mouseMovement()[pri:-3, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:01Z" name="mouseMovement" finished-at="2025-04-22T15:33:05Z" duration-ms="3463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseMovement -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:05Z" name="screenshot" finished-at="2025-04-22T15:33:05Z" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="cookiesandTimeout()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:05Z" name="cookiesandTimeout" finished-at="2025-04-22T15:33:05Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesandTimeout -->
+        <test-method signature="mouseRightClick()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:05Z" name="mouseRightClick" finished-at="2025-04-22T15:33:08Z" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseRightClick -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:08Z" name="screenshot" finished-at="2025-04-22T15:33:08Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="cookiesandTimeout()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:08Z" name="cookiesandTimeout" finished-at="2025-04-22T15:33:08Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesandTimeout -->
+        <test-method signature="dragnDrop()[pri:1, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:08Z" name="dragnDrop" finished-at="2025-04-22T15:33:09Z" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragnDrop -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="screenshot" finished-at="2025-04-22T15:33:09Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="cookiesandTimeout()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="cookiesandTimeout" finished-at="2025-04-22T15:33:09Z" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookiesandTimeout -->
+        <test-method signature="m1()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="m1" finished-at="2025-04-22T15:33:09Z" depends-on-methods="AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop.mouseRightClick" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="screenshot()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="screenshot" finished-at="2025-04-22T15:33:09Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="deleteCookies" finished-at="2025-04-22T15:33:09Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method is-config="true" signature="closeDatabase()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="closeDatabase" finished-at="2025-04-22T15:33:09Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDatabase -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop@16aa0a0a]" started-at="2025-04-22T15:33:09Z" name="closebrowser" finished-at="2025-04-22T15:33:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- AutomationUsingTestNGFramework.TestNGAutomation.MouseMovementDragnDrop -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

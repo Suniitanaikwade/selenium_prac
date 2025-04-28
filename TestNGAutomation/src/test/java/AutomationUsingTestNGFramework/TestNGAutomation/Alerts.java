@@ -19,6 +19,7 @@ public class Alerts {
 
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\Automation\\Automation_tools\\Driver_ChromeWebdriver\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
+
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		// driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
